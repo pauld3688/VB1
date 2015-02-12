@@ -1,0 +1,9 @@
+C:\Users\Paul and Margaret\Desktop\School\vb dot net\VisualBasic1_Lab2_PaulDavid\VisualBasic1_Lab2_PaulDavid\bin\Debug\VisualBasic1_Lab2_PaulDavid.exe.config
+C:\Users\Paul and Margaret\Desktop\School\vb dot net\VisualBasic1_Lab2_PaulDavid\VisualBasic1_Lab2_PaulDavid\bin\Debug\VisualBasic1_Lab2_PaulDavid.exe
+C:\Users\Paul and Margaret\Desktop\School\vb dot net\VisualBasic1_Lab2_PaulDavid\VisualBasic1_Lab2_PaulDavid\bin\Debug\VisualBasic1_Lab2_PaulDavid.pdb
+C:\Users\Paul and Margaret\Desktop\School\vb dot net\VisualBasic1_Lab2_PaulDavid\VisualBasic1_Lab2_PaulDavid\bin\Debug\VisualBasic1_Lab2_PaulDavid.xml
+C:\Users\Paul and Margaret\Desktop\School\vb dot net\VisualBasic1_Lab2_PaulDavid\VisualBasic1_Lab2_PaulDavid\obj\Debug\VisualBasic1_Lab2_PaulDavid.Resources.resources
+C:\Users\Paul and Margaret\Desktop\School\vb dot net\VisualBasic1_Lab2_PaulDavid\VisualBasic1_Lab2_PaulDavid\obj\Debug\VisualBasic1_Lab2_PaulDavid.vbproj.GenerateResource.Cache
+C:\Users\Paul and Margaret\Desktop\School\vb dot net\VisualBasic1_Lab2_PaulDavid\VisualBasic1_Lab2_PaulDavid\obj\Debug\VisualBasic1_Lab2_PaulDavid.exe
+C:\Users\Paul and Margaret\Desktop\School\vb dot net\VisualBasic1_Lab2_PaulDavid\VisualBasic1_Lab2_PaulDavid\obj\Debug\VisualBasic1_Lab2_PaulDavid.xml
+C:\Users\Paul and Margaret\Desktop\School\vb dot net\VisualBasic1_Lab2_PaulDavid\VisualBasic1_Lab2_PaulDavid\obj\Debug\VisualBasic1_Lab2_PaulDavid.pdb
